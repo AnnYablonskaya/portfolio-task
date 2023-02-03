@@ -1,2 +1,1 @@
-# portfolio-task
-Rsschool-task
+https://annyablonskaya.github.io/portfolio-task
